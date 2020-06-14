@@ -5,9 +5,9 @@
 layout: default
 title: Home
 ---
-## Projects
+## Project Pages
 
-* [The Battle of Neighborhoods](https://shailendra-singh.github.io/coursera-capstone/)
+* [Coursera Capstone - Home](https://shailendra-singh.github.io/coursera-capstone/)
 
 ## Repos
 
