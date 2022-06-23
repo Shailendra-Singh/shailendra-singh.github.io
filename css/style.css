@@ -1318,3 +1318,9 @@ ul.social-icons li {
 }
 
 /*# sourceMappingURL=maps/style.css.map */
+
+.blog-post-single p{
+  font-family: Garamond;
+  font-size: 18px;
+  text-indent: 20px;
+}
